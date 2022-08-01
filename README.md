@@ -4,7 +4,7 @@ generate qr code image and array consisting of qr code modules through command l
 Example(windows):  
 python txpr.py \<data\> \<version\>
 
-tool generates: 
+tool generates:   
 image file->out.png   
 text file->out.txt
 
