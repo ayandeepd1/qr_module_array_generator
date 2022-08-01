@@ -1,10 +1,12 @@
 # qr_module_array_generator
-command line tool to generate qr code image and array consisting of qr code modules
+generate qr code image and array consisting of qr code modules through command line
 
 Example(windows):  
 python txpr.py \<data\> \<version\>
 
-output
+tool generates: 
+image file->out.png   
+text file->out.txt
 
 example to run on windows is provided as a .cmd file
 
